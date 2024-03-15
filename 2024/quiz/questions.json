@@ -1,0 +1,98 @@
+[
+  {
+    "Question": "Hva var en utløsningsfaktor for første verdenskrig?",
+    "Options": ["Mordet på Franz Ferdinand", "Tysklands angrep på polen", "Børskrakket i 1929", "Madrid"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var panslavisme?",
+    "Options": ["En politisk bevegelse som ønsket å samle alle slaviske folk i Europa", "En politisk bevegelse som ønsket å samle alle tyskere i Europa", "En politisk bevegelse som ønsket å samle alle franskmenn i Europa", "En politisk bevegelse som ønsket å samle alle briter i Europa"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hvem var medlemmer i trippelententen?",
+    "Options": ["Russland, Frankrike og Storbritannia", "Tyskland, Østerrike-Ungarn og Italia", "Tyskland, Østerrike-Ungarn og Russland", "Tyskland, Østerrike-Ungarn og Frankrike"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hvem var sentralmaktene?",
+    "Options": ["Tyskland, Østerrike-Ungarn og senere Bulgaria og det osmanske riket", "Tyskland, Østerrike-Ungarn og Russland, og senere Danmark", "Tyskland, Østerrike-Ungarn og Frankrike, senere Storbritannia", "Russland, Frankrike og Storbritannia"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var Schlieffenplanen?",
+    "Options": ["En tysk militærplan for å vinne en tofrontskrig mot Frankrike og Russland", "En fransk militærplan for å vinne en tofrontskrig mot Tyskland og Østerrike-Ungarn", "En russisk militærplan for å vinne en tofrontskrig mot Tyskland og Østerrike-Ungarn", "En britisk militærplan for å vinne en tofrontskrig mot Tyskland og Østerrike-Ungarn"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hvorfor gikk amerikanerne inn i krigen?",
+    "Options": ["Tyskland senket passasjerskipet Lusitania", "Tyskland angrep USA", "Tyskland angrep Storbritannia", "Tyskland angrep Frankrike"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hvordan tok bolsjevikene makten i Russland?",
+    "Options": ["De gjennomførte et statskupp", "De vant valget", "De ble valgt til president", "De ble utnevnt til president"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var Versailles-traktaten?",
+    "Options": ["En fredsavtale som avsluttet første verdenskrig", "En fredsavtale som avsluttet andre verdenskrig", "En fredsavtale som avsluttet den kalde krigen", "En fredsavtale som avsluttet den russiske revolusjonen"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva ble det industrielle fokuset i Russland",
+    "Options": ["Tungindustri", "Lettindustri", "Landbruk", "Fiske"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hvem var Lenin?",
+    "Options": ["En marxistisk revolusjonær", "En liberalistisk revolusjonær", "En konservativ revolusjonær", "En sosialistisk revolusjonær"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var NEP?",
+    "Options": ["En økonomisk politikk som skulle gjenreise Russland etter borgerkrigen", "En økonomisk politikk som skulle gjenreise Tyskland etter borgerkrigen", "En økonomisk politikk som skulle gjenreise Frankrike etter borgerkrigen", "En økonomisk politikk som skulle gjenreise Storbritannia etter borgerkrigen"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var bakgrunnen for børskrakket",
+    "Options": ["Overproduksjon og overforbruk", "Underproduksjon og underforbruk", "Overproduksjon og underforbruk", "Underproduksjon og overforbruk"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva innabar New Deal?",
+    "Options": ["En rekke reformer og tiltak for å få USA ut av den store depresjonen", "En rekke reformer og tiltak for å få Tyskland ut av den store depresjonen", "En rekke reformer og tiltak for å få Frankrike ut av den store depresjonen", "En rekke reformer og tiltak for å få Storbritannia ut av den store depresjonen"],
+    "Answer_index": 0
+  },
+  {
+    "Question":"Hvem lagde New Deal?",
+    "Options": [
+      "Franklin D. Roosevelt",
+      "Benjamin Franklin",
+      "Churchill",
+      "Chamberlain"
+    ],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var kriseforliket?",
+    "Options": [
+      "En avtale mellom AP og BondePartiet om å samarbeide for å få Norge ut av den økonomiske krisen",
+      "En avtale mellom Høyre og Venstre om å samarbeide for å få Norge ut av den økonomiske krisen",
+      "En avtale mellom AP og Høyre om å samarbeide for å få Norge ut av den økonomiske krisen",
+      "En avtale mellom AP og FrP om å samarbeide for å få Norge ut av den økonomiske krisen"
+    ],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Hva var hovedavtalen?",
+    "Options": ["En avtale mellom NOH og LO for å forenkle uenigheter i arbeidslivet", "En avtale mellom AP og LO for å forenkle uenigheter i arbeidslivet", "En avtale mellom NHO og LO for å gi penger til fattige", "En avtale mellom NHO og LO for å gi penger til rike"],
+    "Answer_index": 0
+  },
+  {
+    "Question": "Er Eskild en rasist",
+    "Options": ["Ja", "Nei", "Kanskje", "Vet ikke"],
+    "Answer_index": 0
+  }
+
+]
